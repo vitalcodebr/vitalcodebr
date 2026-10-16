@@ -7,7 +7,7 @@ Tenho 19 anos e atualmente curso o segundo período de Análise e Desenvolviment
 
 <img        
 alt='HTML'
-size=100px
+width='30px'
 title='HTML'
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
         />
