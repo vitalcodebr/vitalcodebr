@@ -6,20 +6,26 @@ Tenho 19 anos e atualmente curso o segundo período de Análise e Desenvolviment
 **Linguagens e Tecnologias**
 
 
-<img        
+<img
+align='left'
 alt='HTML'
 width='30px'
+padding-right='10px'
 title='HTML'
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
         />
 <img 
+align='left'
 alt='CSS3'
+padding-right='10px'
 width='30px'
 tittle='CSS3'
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 <img
+align='left'
 alt='python'
+padding-right='10px'
 width='30px'
 tittle='PYTHON'
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
