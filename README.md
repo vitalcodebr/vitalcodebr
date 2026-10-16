@@ -29,6 +29,9 @@ padding-right='10px'
 width='30px'
 tittle='PYTHON'
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<p color=green>**'um código a cada dia'**</p>
+
           
       
 
