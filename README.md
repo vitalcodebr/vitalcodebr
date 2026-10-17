@@ -40,7 +40,6 @@ alt='Github Status'
 tittle='estatísticas'
 src='https://github-readme-stats.vercel.app/api?username=vitalcodebr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br'/>
 <img
-padding-right='10px'
 height='200'
 alt='Tecnologias Usadas'
 tittle='Uso de tecnologias'
