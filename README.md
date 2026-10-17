@@ -36,7 +36,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 <img
 alt='gráfico'
 tittle='estatísticas'
-src='https://github.com/vitalcodebr/github-readme-stats?utm_source=chatgpt.com'/>
+src='https://github-readme-stats.vercel.app/api?username=vitalcodebr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br'/>
           
       
 
