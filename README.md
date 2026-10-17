@@ -34,9 +34,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 **📊Estatísticas**
 
 <img
-alt='gráfico'
+padding-right='10px'
+height='200'
+alt='Github Status'
 tittle='estatísticas'
 src='https://github-readme-stats.vercel.app/api?username=vitalcodebr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br'/>
+<img
+padding-right='10px'
+height='200'
+alt='Tecnologias Usadas'
+tittle='Uso de tecnologias'
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalcodebr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+
           
       
 
